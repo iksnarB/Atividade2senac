@@ -1,0 +1,47 @@
+
+body {
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-top: 50px;
+}
+
+.container {
+    display: flex;
+}
+
+img {
+    width: 490px;
+    margin-left: 40px;
+    margin-top: -50px;
+}
+
+.part2 {
+    display: flex;
+}
+
+button {
+    height: 40px;
+    width: 190px;
+    margin-top: -60px;
+    margin-right: 10px;
+    border-radius: 7px;
+    color: rgb(255, 255, 255);
+    background-color: #1b6ec2;
+    border-style: none;
+}
+
+.part2 .b1{
+    margin-left: 340px;
+}
+
+.past2 form .h1 {
+    margin-top: 100px;
+}
+
+form input {
+    width: 180px;
+    height: 20px;
+}
+form button{
+    margin-top: 20px;
+}
